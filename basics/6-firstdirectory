@@ -1,3 +1,2 @@
-#!/bin/bas
-#mkdir
-h
+#!/bin/bash
+#mkdir/tmp/my_first_directory
