@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x change_symlink_owner.sh
+chown -h $NEW_OWNER:$NEW_GROUP $SYMLINK_NAMEh
