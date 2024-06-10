@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp holberton hello 
+chmod +x change_group_owner.sh
