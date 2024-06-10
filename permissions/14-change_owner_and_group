@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R $OWNER:$GROUP_OWNER ./*
+chown -cR user:Données/médias/documents
