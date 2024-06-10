@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -cR user:Données/médias/documents
+chown -R vincent:staff
