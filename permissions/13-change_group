@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x change_group_ohh
+chgrp school hello
