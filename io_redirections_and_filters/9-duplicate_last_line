@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -b 1 file >>filea
+tail -n 1 iacta >> iacta
