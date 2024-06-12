@@ -1,2 +1,2 @@
 #!/bin/bash
-last_line=$(tail -n 1 iacta)
+tail -b 1 file >>filea
