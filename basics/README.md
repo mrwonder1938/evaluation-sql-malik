@@ -1,2 +1,0 @@
-
-the command is pwd
